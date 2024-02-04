@@ -1,0 +1,10 @@
+.carrito{
+    align-items: center;
+}
+
+.container-carrito{
+    display: flex;
+    align-items: center;
+    padding: 30px;
+    gap: 1rem;
+}

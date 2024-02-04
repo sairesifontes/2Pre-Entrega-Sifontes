@@ -1,0 +1,29 @@
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.licor{
+    /* background-color: aqua; */
+    display: flex;
+    width: 200px;
+    margin: 20px;
+    flex-direction: column;
+    text-align: center;
+    padding-bottom: 20px;
+    border-radius: 20px;
+}
+
+.imagen-licor{
+    width: 150px;
+    height: 200px;
+    justify-content: center;
+    margin-left: 25px;
+}
+
+.btn-ver-mas{
+    background-color: rgb(147, 214, 134);
+    border: none;
+    padding: 6px;
+    border-radius: 10px;
+}
