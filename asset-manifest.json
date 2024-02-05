@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.0a59d4b8.css",
-    "main.js": "/static/js/main.ff7b045d.js",
-    "static/js/787.3a159a8d.chunk.js": "/static/js/787.3a159a8d.chunk.js",
-    "static/media/LOGO.png": "/static/media/LOGO.35b46cc11ab4c7ac989a.png",
-    "static/media/cart.svg": "/static/media/cart.06e88ac4587e4149371a39d278da984e.svg",
-    "index.html": "/index.html",
-    "main.0a59d4b8.css.map": "/static/css/main.0a59d4b8.css.map",
-    "main.ff7b045d.js.map": "/static/js/main.ff7b045d.js.map",
-    "787.3a159a8d.chunk.js.map": "/static/js/787.3a159a8d.chunk.js.map"
+    "main.css": "/2Pre-Entrega-Sifontes/static/css/main.0a59d4b8.css",
+    "main.js": "/2Pre-Entrega-Sifontes/static/js/main.f3a28cc7.js",
+    "static/js/787.3a159a8d.chunk.js": "/2Pre-Entrega-Sifontes/static/js/787.3a159a8d.chunk.js",
+    "static/media/LOGO.png": "/2Pre-Entrega-Sifontes/static/media/LOGO.35b46cc11ab4c7ac989a.png",
+    "static/media/cart.svg": "/2Pre-Entrega-Sifontes/static/media/cart.06e88ac4587e4149371a39d278da984e.svg",
+    "index.html": "/2Pre-Entrega-Sifontes/index.html",
+    "main.0a59d4b8.css.map": "/2Pre-Entrega-Sifontes/static/css/main.0a59d4b8.css.map",
+    "main.f3a28cc7.js.map": "/2Pre-Entrega-Sifontes/static/js/main.f3a28cc7.js.map",
+    "787.3a159a8d.chunk.js.map": "/2Pre-Entrega-Sifontes/static/js/787.3a159a8d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0a59d4b8.css",
-    "static/js/main.ff7b045d.js"
+    "static/js/main.f3a28cc7.js"
   ]
 }
