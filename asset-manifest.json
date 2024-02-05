@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/1Pre-Entrega-Sifontes/static/css/main.441a387d.css",
+    "main.js": "/1Pre-Entrega-Sifontes/static/js/main.005f1847.js",
+    "static/js/787.3a159a8d.chunk.js": "/1Pre-Entrega-Sifontes/static/js/787.3a159a8d.chunk.js",
+    "static/media/LOGO.png": "/1Pre-Entrega-Sifontes/static/media/LOGO.35b46cc11ab4c7ac989a.png",
+    "static/media/cart.svg": "/1Pre-Entrega-Sifontes/static/media/cart.06e88ac4587e4149371a39d278da984e.svg",
+    "index.html": "/1Pre-Entrega-Sifontes/index.html",
+    "main.441a387d.css.map": "/1Pre-Entrega-Sifontes/static/css/main.441a387d.css.map",
+    "main.005f1847.js.map": "/1Pre-Entrega-Sifontes/static/js/main.005f1847.js.map",
+    "787.3a159a8d.chunk.js.map": "/1Pre-Entrega-Sifontes/static/js/787.3a159a8d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.441a387d.css",
+    "static/js/main.005f1847.js"
+  ]
+}
