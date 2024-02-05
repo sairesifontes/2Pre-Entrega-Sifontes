@@ -5,7 +5,8 @@
         "precio": 850,
         "categoria": "Cervezas",
         "contenidoMl": 473,
-        "imagen": "cervezaAndes.png"
+        "imagen": "cervezaAndes.png",
+        "stock": 25
     },
     {
         "codigo": 1454,
@@ -13,7 +14,8 @@
         "precio": 850,
         "categoria": "Cervezas",
         "contenidoMl": 473,
-        "imagen": "cerveza amber.png"
+        "imagen": "cerveza amber.png",
+        "stock": 25
     },
     {
         "codigo": 1524,
@@ -21,7 +23,8 @@
         "precio": 630,
         "categoria": "Cervezas",
         "contenidoMl": 473,
-        "imagen": "cervezaQuilmes.png"
+        "imagen": "cervezaQuilmes.png",
+        "stock": 25
     },
     {
         "codigo": 1958,
@@ -29,7 +32,8 @@
         "precio": 630,
         "categoria": "Cervezas",
         "contenidoMl": 330,
-        "imagen": "cervezaCorona.png"
+        "imagen": "cervezaCorona.png",
+        "stock": 25
     },
     {
         "codigo": 1212,
@@ -37,7 +41,8 @@
         "precio": 400,
         "categoria": "Cervezas",
         "contenidoMl": 269,
-        "imagen": "Cervezastella.png"
+        "imagen": "Cervezastella.png",
+        "stock": 25
     },
     {
         "codigo": 2523,
@@ -45,7 +50,8 @@
         "precio": 450,
         "categoria": "Cervezas",
         "contenidoMl": 269,
-        "imagen": "cervezaBrahma.png"
+        "imagen": "cervezaBrahma.png",
+        "stock": 25
     },
         {
         "codigo": 1048,
@@ -53,7 +59,8 @@
         "precio": 820,
         "categoria": "Cervezas",
         "contenidoMl": 473,
-        "imagen": "CervezaHeineken.png"
+        "imagen": "CervezaHeineken.png",
+        "stock": 25
     },
     {
         "codigo": 1545,
@@ -61,7 +68,8 @@
         "precio": 700,
         "categoria": "Cervezas",
         "contenidoMl": 473,
-        "imagen": "Cervezaschneider.png"
+        "imagen": "Cervezaschneider.png",
+        "stock": 25
     },
     {
         "codigo": 3048,
@@ -69,7 +77,8 @@
         "precio": 2500,
         "categoria": "Vinos",
         "contenidoMl": 375,
-        "imagen": "vinoTRUMPETER.png"
+        "imagen": "vinoTRUMPETER.png",
+        "stock": 25
     },
     {
         "codigo": 1513,
@@ -77,7 +86,8 @@
         "precio": 2500,
         "categoria": "Vinos",
         "contenidoMl": 700,
-        "imagen": "vinoCosechaTardia.png"
+        "imagen": "vinoCosechaTardia.png",
+        "stock": 25
     },
     {
         "codigo": 3025,
@@ -85,7 +95,8 @@
         "precio": 19000,
         "categoria": "Vinos",
         "contenidoMl": 750,
-        "imagen": "vinoElEnemigo.png"
+        "imagen": "vinoElEnemigo.png",
+        "stock": 25
     },
     {
         "codigo": 3124,
@@ -93,7 +104,8 @@
         "precio": 4500,
         "categoria": "Vinos",
         "contenidoMl": 750,
-        "imagen": "vinoLuigiBosca.png"
+        "imagen": "vinoLuigiBosca.png",
+        "stock": 25
     },
     {
         "codigo": 1213,
@@ -101,7 +113,8 @@
         "precio": 2500,
         "categoria": "Vinos",
         "contenidoMl": 700,
-        "imagen": "vinoToroClasico.png"
+        "imagen": "vinoToroClasico.png",
+        "stock": 25
     },
     {
         "codigo": 1515,
@@ -109,7 +122,8 @@
         "precio": 2800,
         "categoria": "Vinos",
         "contenidoMl": 700,
-        "imagen": "vinoBlancoMarlo.png"
+        "imagen": "vinoBlancoMarlo.png",
+        "stock": 25
     },
     {
         "codigo": 3811,
@@ -117,7 +131,8 @@
         "precio": 3500,
         "categoria": "Vinos",
         "contenidoMl": 750,
-        "imagen": "vinoLosIntocables.png"
+        "imagen": "vinoLosIntocables.png",
+        "stock": 25
     },
     {
         "codigo": 3248,
@@ -125,7 +140,8 @@
         "precio": 18000,
         "categoria": "Vinos",
         "contenidoMl": 750,
-        "imagen": "vinoEscorihuela.png"
+        "imagen": "vinoEscorihuela.png",
+        "stock": 25
     },
     {
         "codigo": 1584,
@@ -133,7 +149,8 @@
         "precio": 3200,
         "categoria": "Vodka",
         "contenidoMl": 750,
-        "imagen": "VodkaSkyy.png"
+        "imagen": "VodkaSkyy.png",
+        "stock": 25
     },
     {
         "codigo": 1585,
@@ -141,7 +158,8 @@
         "precio": 3200,
         "categoria": "Vodka",
         "contenidoMl": 750,
-        "imagen": "VodkaSkyyApricot.png"
+        "imagen": "VodkaSkyyApricot.png",
+        "stock": 25
     },
     {
         "codigo": 1586,
@@ -149,7 +167,8 @@
         "precio": 3200,
         "categoria": "Vodka",
         "contenidoMl": 750,
-        "imagen": "VodkaSkyyCoconut.png"
+        "imagen": "VodkaSkyyCoconut.png",
+        "stock": 25
     },
     {
         "codigo": 1555,
@@ -157,7 +176,8 @@
         "precio": 3200,
         "categoria": "Vodka",
         "contenidoMl": 750,
-        "imagen": "VodkaSkyyPassion.png"
+        "imagen": "VodkaSkyyPassion.png",
+        "stock": 25
     },
     {
         "codigo": 1588,
@@ -165,7 +185,8 @@
         "precio": 3200,
         "categoria": "Vodka",
         "contenidoMl": 750,
-        "imagen": "VodkaSkyyRaspberry.png"
+        "imagen": "VodkaSkyyRaspberry.png",
+        "stock": 25
     },
     {
         "codigo": 2811,
@@ -173,7 +194,8 @@
         "precio": 8600,
         "categoria": "Vodka",
         "contenidoMl": 700,
-        "imagen": "VodkaAbsolut.png"
+        "imagen": "VodkaAbsolut.png",
+        "stock": 25
     },
     {
         "codigo": 2655,
@@ -181,7 +203,8 @@
         "precio": 3500,
         "categoria": "Vodka",
         "contenidoMl": 700,
-        "imagen": "VodkaSmirnoffOriginal.png"
+        "imagen": "VodkaSmirnoffOriginal.png",
+        "stock": 25
     },
     {
         "codigo": 2656,
@@ -189,7 +212,8 @@
         "precio": 3500,
         "categoria": "Vodka",
         "contenidoMl": 700,
-        "imagen": "VodkaSmirnoffCitrus.png"
+        "imagen": "VodkaSmirnoffCitrus.png",
+        "stock": 25
     },
     {
         "codigo": 2657,
@@ -197,7 +221,8 @@
         "precio": 3500,
         "categoria": "Vodka",
         "contenidoMl": 700,
-        "imagen": "VodkaSmirnoffApple.png"
+        "imagen": "VodkaSmirnoffApple.png",
+        "stock": 25
     },
     {
         "codigo": 2658,
@@ -205,7 +230,8 @@
         "precio": 3500,
         "categoria": "Vodka",
         "contenidoMl": 700,
-        "imagen": "VodkaSmirnoffWaterMelon.png"
+        "imagen": "VodkaSmirnoffWaterMelon.png",
+        "stock": 25
     },
     {
         "codigo": 1623,
@@ -213,7 +239,8 @@
         "precio": 2500,
         "categoria": "Vodka",
         "contenidoMl": 700,
-        "imagen": "VodkaSernovaApple.png"
+        "imagen": "VodkaSernovaApple.png",
+        "stock": 25
     },
     {
         "codigo": 1728,
@@ -221,6 +248,7 @@
         "precio": 2500,
         "categoria": "Vodka",
         "contenidoMl": 700,
-        "imagen": "VodkaSernovaWildBerries.png"
+        "imagen": "VodkaSernovaWildBerries.png",
+        "stock": 25
     }
     ]

@@ -13,7 +13,7 @@ export const pedirItemCodigo = (codigo) => {
     return new Promise ((resolve, reject) => {
 
 
-        const item = data.find((cod) => cod.codigo === 1433)
+        const item = data.find((cod) => cod.codigo === codigo)
 
         if(item){
             resolve(item)

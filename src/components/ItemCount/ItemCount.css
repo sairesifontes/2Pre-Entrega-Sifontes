@@ -1,0 +1,39 @@
+.contador-container{
+    /* background-color: black; */
+    text-align: center;
+}
+
+.controles{
+    /* background-color: blue; */
+    display: flex;
+    gap: 2rem;
+    height: 40px;
+    font-size: 1rem;
+    padding: 5px;
+}
+
+.btn-Baja, .btn-Sube{
+    background-color: aqua;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    text-align: center;
+}
+
+.btn-agregar{
+    border: none;
+    background-color: rgb(58, 221, 142);
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 20px;
+}
+
+.btn-Baja:hover, .btn-Sube:hover, .btn-agregar:hover{
+    background-color: rgb(92, 211, 211);
+}
+
+.numero-cantidad{
+    text-align: center;
+    margin-bottom: 200px;
+    
+}
