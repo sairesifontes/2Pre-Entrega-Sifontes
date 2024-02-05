@@ -6,15 +6,20 @@ const ItemList = ( { licores, titulo } ) => {
 
 
     return (
-        <div>
+        <>
             <hr/>
             <h2 className="titulo-licores">{mayuscula(titulo)}</h2>
 
-            <div className="container-licores">
-                { licores.map((lic) => <Item licor={lic} key={lic.codigo}/>) }
-            </div>
+            {licores.length > 0 ? ( 
+                <div className="container-licores">
+                    { licores.map((lic) => <Item licor={lic} key={lic.codigo}/>) }
+                </div>) : (
+                    <p>No hay licores disponibles para esta categoria😓</p>
+                )
+            }
+            
 
-        </div>
+        </>
     )
 }
 

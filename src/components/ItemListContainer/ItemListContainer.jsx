@@ -6,7 +6,7 @@ import { useParams } from "react-router-dom";
 
 const ItemListContainer = () => {
     
-    const [licores, setLicores] = useState([]);
+    const [licores, setLicores] = useState ([]);
     const categoria = useParams().categoria
     const [titulo, setTitulo] = useState("Licores")
   
@@ -14,15 +14,15 @@ const ItemListContainer = () => {
     useEffect (() => {
         pedirDatos()
             .then((res) => {
-                if(categoria) {
-                    const licoresFiltrados = res.filter((licor) => licor.categoria === categoria)
-                    setLicores(licoresFiltrados);
+                console.log(res)
+                if (categoria) {
+                    setLicores( res.filter((lic) => lic.categoria.toLowerCase() === categoria.toLowerCase()) );
                     setTitulo(categoria)
                 }else{
                     setLicores(res);
                     setTitulo("Licores")
                 }
-                
+                console.log("Licores", licores)
             })
     }, [categoria])
 

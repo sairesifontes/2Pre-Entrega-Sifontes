@@ -13,7 +13,7 @@ function NavBar() {
             <li><Link className="item" to="/licores">Licores</Link></li>
             <li><Link className="item" to="/licores/cervezas">Cervezas</Link></li>
             <li><Link className="item" to="/licores/vinos">Vinos</Link></li>
-            <li><Link className="item" to="/licores/vodkas">Vodkas</Link></li>
+            <li><Link className="item" to="/licores/vodka">Vodka</Link></li>
           </ul>
 
           <Cart/>
